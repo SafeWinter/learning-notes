@@ -6,7 +6,7 @@
 
 ![Redis 4.x Cookbook](assets/cover.png)
 
-|    **Title**    | **Redis 4.x Cookbook** [[buy](https://www.packtpub.com/product/redis-4-x-cookbook/9781783988167)] |
+|    **Title**    | **Redis 4.x Cookbook** [ISBN: 9781783988167] |
 | :-------------: | :----------------------------------------------------------: |
 |   **Author**    |               **Pengcheng Huang, Zuofei Wang**               |
 | **Publication** |                      **Packt, 2018.2**                       |
@@ -22,7 +22,7 @@
 
 ## 2. Outlines
 
-Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started)
+Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started) | :orange_book: (Finish reading)
 
 | No.  |        Chapter Title        |          Status          |
 | :--: | :-------------------------: | :----------------------: |
